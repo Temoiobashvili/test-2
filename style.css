@@ -115,5 +115,127 @@ vertical-align: middle;
   font-size: 16px;
 }
 
+.main-page2 {
+  margin-top: 120px;
+  margin-left: 130px;
+}
+
+.h1-page-2 {
+  font-size: 36px;
+  color: #19126B;
+   
+}
+
+.main-page2-paragraph2 {
+  font-size: 20px;
+  color:#090346;
+  margin-top: 24px;
+}
+
+.main2-page2 {
+  background-color: #EBEBF0;
+  padding-left: 130px;
+  padding-top: 73px;
+  padding-bottom: 72px;
+}
+
+.our-history {
+  display: inline-block;
+}
+
+.h2-page-2 {
+  font-size: 36px;
+  color: #19126B;
+}
+
+.main-page2-paragraph3 {
+color:#090346;
+font-size: 24px;
+}
+
+.old-car-page2 {
+  display: inline;
+  margin-left: 95px;
+  vertical-align: top;
+}
+
+.main-page3 {
+  margin-top: 120px;
+  margin-left: 130px;
+  margin-bottom: 120px;
+}
+
+.h1-page3 {
+  font-size: 36px;
+  color: #19126B;
+}
+
+.paragraph1-page3 {
+  font-size: 20px;
+  color: #090346;
+}
+
+.main2-page3 {
+  background-color: hsl(240, 14%, 93%);
+  padding-left: 130px;
+  padding-top: 78px;
+  padding-bottom: 94px;
+}
+
+.contact-info {
+  display: inline-block;
+}
+
+.h-contact-info {
+  font-size: 36px;
+  display: block;
+}
+
+.address-info {
+  display: inline-block;
+  margin-top: 24px;
+}
+ 
+address {
+  display: inline;
+  color:#0D69A9;
+}
+
+.address-link {
+  color: #000000;
+  
+}
+
+.tel-info {
+  margin-top: 11px;
+  display: inline;
+}
+
+.tel {
+  color: #0D69A9;
+  margin-top: 100px;
+}
+
+.tel-number {
+  color: black;
+  display: inline;
+}
+
+.email-info {
+  margin-top: 11px;
+  display: inline;
+}
+
+.email {
+  color:#0D69A9;
+}
+
+.map-photo {
+  display: inline;
+  vertical-align: top;
+  margin-left: 177px;
+}
+
+
 
 
