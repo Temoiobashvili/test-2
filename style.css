@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+}
+
+.ford-logo-1 {
+  margin-left: 130px;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.nav-1 {
+  display: inline;
+} 
+
+.nav-item-1 {
+  display: inline;
+  margin-left: 531px;
+  font-size: 20px;
+}
+
+.nav-item-2 {
+  display: inline;
+  margin-left: 121px;
+  font-size: 20px;
+}
+
+.nav-item-3 {
+  display: inline;
+  margin-left: 121px;
+  font-size: 20px;
+}
+
+ul,ol {
+  list-style-type: none;
+  display: inline;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.active-link {
+  color: red;
+}
+
+.nav-link {
+  color: #2414DB;
+}
+
+.main-text1 {
+  margin-top: 120px;
+  margin-left: 130px;
+}
+
+.h-page1 {
+  font-size: 36px;
+  color: #17326E;
+}
+
+.main-paragraph1 {
+font-size: 20px;
+color: #090346;
+}
+
+.car-pics {
+  margin-top: 120px;
+  background-color: #EBEBF0;
+}
+
+.cabriolet-red {
+  padding-bottom: 121px;
+  padding-top: 121px;
+  padding-left: 130px;
+}
+
+.van-blue {
+  margin-left: 20px;
+  padding-bottom: 121px;
+}
+
+.sedan-lite-green {
+  margin-left: 20px;
+  padding-bottom: 121px;
+}
+
+.footer {
+  background-color: #19126B;
+}
+
+.media-links {
+  padding-top: 50px;
+  padding-left: 130px;
+  padding-bottom: 50px;
+}
+
+.messenger-logo {
+  vertical-align: middle;
+}
+
+.instagram-logo {
+margin-left: 20px;  
+vertical-align: middle;
+}
+
+.youtube-logo {
+  margin-left: 20px;
+  vertical-align: middle;
+}
+
+.footer-text {
+  color: white;
+  display: inline;
+  margin-left: 678px;
+  font-size: 16px;
+}
+
+
+
